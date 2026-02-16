@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there, I'm Arda! 👋
 
-<!--
-**Arda-dd/Arda-dd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student and a Junior Software Developer focused on **Backend Systems** and **Mobile Applications**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Automated Trading Systems & Dockerized Apps**
+- 🌱 I’m currently learning **Advanced Backend Architecture (Microservices)**
+- 💼 Experienced in **Freelance Web & Mobile Solutions**
+- 📫 Contact: **ardatnmzoglu@gmail.com** | [LinkedIn](https://www.linkedin.com/in/arda-tnmzoglu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+<br/>
+
+### 📊 GitHub Stats
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Arda-dd&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-dd&layout=compact&theme=radical&hide_border=true" height="150" alt="languages" />
+</div>

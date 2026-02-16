@@ -20,8 +20,4 @@ I'm a Computer Engineering student and a Junior Software Developer focused on **
 
 <br/>
 
-### 📊 GitHub Stats
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Arda-dd&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-dd&layout=compact&theme=radical&hide_border=true" height="150" alt="languages" />
-</div>
+

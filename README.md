@@ -30,7 +30,7 @@ Record clicks in any web app with a Chrome extension, edit them in the browser (
 
 **[prelaunch](https://github.com/Arda-dd/prelaunch)**: catch launch-day mistakes in one command
 
-<a href="https://github.com/Arda-dd/prelaunch"><img src="https://raw.githubusercontent.com/Arda-dd/prelaunch/main/docs/report.png" alt="prelaunch HTML report"></a>
+<a href="https://github.com/Arda-dd/prelaunch"><img src="prelaunch.png" alt="prelaunch HTML report"></a>
 
 `npx prelaunch example.com` checks 39 rules before a site goes live: leftover `noindex`, exposed `.env` files, PHP errors shown to visitors, broken links, missing share images, security headers. Also a GitHub Action.
 

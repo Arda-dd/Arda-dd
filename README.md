@@ -46,6 +46,7 @@ Record clicks in any web app with a Chrome extension, edit them in the browser (
 
 - **[FreeScout](https://github.com/freescout-help-desk/freescout)** (PHP / Laravel help desk)
   - Merged: [#5763](https://github.com/freescout-help-desk/freescout/pull/5763). Email headers are now parsed correctly on servers without the PHP IMAP extension, which PHP 8.4 no longer bundles.
+  - Adopted upstream: [#5766](https://github.com/freescout-help-desk/freescout/pull/5766). The test suite now runs on PHP 8.4 and 8.5. Getting it there also made a security regression test run for the first time; it had never run in CI before (committed as [86d4ad5](https://github.com/freescout-help-desk/freescout/commit/86d4ad5)).
   - Reported with fixes: [#5764](https://github.com/freescout-help-desk/freescout/pull/5764) (debug output leaking into responses) and [#5762](https://github.com/freescout-help-desk/freescout/pull/5762) (`composer install` failing on Windows). Both are fixed in FreeScout.
 
 ---

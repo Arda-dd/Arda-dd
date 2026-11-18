@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student and a junior software developer. I build web applications with **PHP / Laravel** and **TypeScript**, mobile apps with **Flutter**, and open-source tools that other developers can use.
 
-- 🚀 Building **[Stepcast](https://github.com/Arda-dd/stepcast)**, an open-source alternative to paid interactive-demo tools
+- 🚀 Building **[Praisewall](https://github.com/Arda-dd/praisewall)** and **[Stepcast](https://github.com/Arda-dd/stepcast)**, open-source alternatives to paid SaaS tools
 - 🤝 Contributor to **[FreeScout](https://github.com/freescout-help-desk/freescout)**, the open-source help desk
 - 🌱 Learning **advanced backend architecture** (microservices, Docker)
 - 📫 **ardatnmzoglu@gmail.com** · [LinkedIn](https://www.linkedin.com/in/arda-tnmzoglu)
@@ -10,6 +10,16 @@ I'm a Computer Engineering student and a junior software developer. I build web 
 ---
 
 ### 🚀 Open-source projects
+
+**[Praisewall](https://github.com/Arda-dd/praisewall)**: a self-hosted wall of love for your testimonials
+
+<a href="https://github.com/Arda-dd/praisewall"><img src="https://raw.githubusercontent.com/Arda-dd/praisewall/main/docs/styles.png" alt="Praisewall widget in six styles"></a>
+
+Collect testimonials with a link, approve them in an inbox, and show them on any website with one line of code. Seven layouts (wall, grid, carousel, slider, popup, rating badge), six styles, a live widget designer, testimonials as social images, and five languages. A free alternative to Senja and Testimonial.to.
+
+`Laravel 13` `PHP 8.4` `TypeScript` `Tailwind CSS` `Docker` `PHPUnit` `Vitest`
+
+[▶ Live demo](https://arda-dd.github.io/praisewall/) · [Repository](https://github.com/Arda-dd/praisewall)
 
 <table>
 <tr>

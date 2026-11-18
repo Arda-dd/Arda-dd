@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student and a junior software developer. I build web applications with **PHP / Laravel** and **TypeScript**, mobile apps with **Flutter**, and open-source tools that other developers can use.
 
-- 🚀 Building **[Praisewall](https://github.com/Arda-dd/praisewall)** and **[Stepcast](https://github.com/Arda-dd/stepcast)**, open-source alternatives to paid SaaS tools
+- 🚀 Building **[Clipglow](https://github.com/Arda-dd/clipglow)**, **[Praisewall](https://github.com/Arda-dd/praisewall)** and **[Stepcast](https://github.com/Arda-dd/stepcast)**, open-source alternatives to paid tools
 - 🤝 Contributor to **[FreeScout](https://github.com/freescout-help-desk/freescout)**, the open-source help desk
 - 🌱 Learning **advanced backend architecture** (microservices, Docker)
 - 📫 **ardatnmzoglu@gmail.com** · [LinkedIn](https://www.linkedin.com/in/arda-tnmzoglu)
@@ -10,6 +10,16 @@ I'm a Computer Engineering student and a junior software developer. I build web 
 ---
 
 ### 🚀 Open-source projects
+
+**[Clipglow](https://github.com/Arda-dd/clipglow)**: screen recordings that look amazing, right in your browser
+
+<a href="https://github.com/Arda-dd/clipglow"><img src="https://raw.githubusercontent.com/Arda-dd/clipglow/main/docs/demo.gif" alt="A screen recording that zooms in smoothly on each click, on a colorful background"></a>
+
+Record your screen or drop in any video, and Clipglow zooms in on the action, adds a background, a window frame and your webcam, and exports an MP4 or GIF. Auto zoom works even on videos recorded elsewhere: it analyzes the picture with a temporal median filter that ignores the mouse pointer. Everything runs locally with WebCodecs. A free alternative to Screen Studio.
+
+`TypeScript` `React` `WebCodecs` `Canvas` `Vite` `Vitest`
+
+[▶ Open Clipglow](https://arda-dd.github.io/clipglow/) · [Repository](https://github.com/Arda-dd/clipglow)
 
 **[Praisewall](https://github.com/Arda-dd/praisewall)**: a self-hosted wall of love for your testimonials
 
